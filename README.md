@@ -1,1 +1,3 @@
 # Virtual-Mouse-
+
+This project is a computer vision-based virtual mouse system that allows users to control their computer's mouse using hand gestures detected through a webcam. By tracking the positions of the index and middle fingers, the system enables precise cursor movement when the index finger is raised, and simulates a mouse click when both the index and middle fingers are detected close together. The hand gestures are processed in real-time, providing a smooth and touchless way to interact with the computer, ideal for hands-free operation in scenarios like presentations, entertainment, and accessibility solutions.
